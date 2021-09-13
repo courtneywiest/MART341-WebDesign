@@ -1,2 +1,2 @@
-# web-dev-hw
+# Courtney Wiest's web-dev-hw
 Repository for my Intro Web Dev homework.
