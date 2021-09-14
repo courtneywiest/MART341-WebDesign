@@ -1,3 +1,5 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Fusce pellentesque consequat justo, id tempus massa laoreet vel. Maecenas pulvinar ligula eu sem venenatis elementum.
-Nullam sodales gravida justo eget semper. Duis ut molestie arcu. Suspendisse accumsan in ligula a blandit.
+The internet is a global system of interconnected networks and hardware, while the world wide web is one set of software services that is accessed via the internet. 
+The internet moves data from one place to another in order for us to chat, surf, etc. The data gets broken down and sent to the destination in a bunch of different pieces called packets. These packets are then reassembled once they have reached the destination. 
+A directory is a location for storing files on a computer, like a file system. The file system itself is referred to as a directory while the folders in the file system are referred to as directories. 
+A Version Control System can benefit you in many ways. It lets you record all the changes that are made to project files, and lets you undo those changed to return to any previous versions of the project. 
+As a Media Arts major, I would have to say that my favorite kind of art is graphic design, and I usually gravitate towards more simplistic and modern designs.
