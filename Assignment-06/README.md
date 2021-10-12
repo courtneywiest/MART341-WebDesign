@@ -1,0 +1,3 @@
+A document can have up to 6 <head> elements and 1 <body> element. The headings are in order of most to least important, and typically includes titles and subtitles. The body contains all content that is in the html document.
+Structural markup embeds information about the structure of the document into the document. Semantic markup is used to reinforce the meaning of certain information with the document. For example semantic markup could be used to place emphasis on something by making it bold or italic.
+For this assignment, and most assignments, I start out by going through the lesson on the course website while taking notes. I then go see what the homework is for the week and just start at the top of the instructions pdf. 
