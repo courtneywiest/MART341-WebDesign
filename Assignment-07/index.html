@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>  </title>
+      <meta charset="UTF-8">
+
+      <meta name="description" content="A short description...">
+
+      <meta name="author" content="Your Name">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <style>
+        table, th, td {border: 1px solid black; padding: 2px;}
+      </style>
+    </head>
+    <body>
+      <h1>Wally & Buck</h1>
+      <img src="./Images/WallyBuckLogo.jpeg" alt="Text logo for Wally and Buck burger company" title="Wally and Buck Logo" width="600px" height="600px" />
+
+      <address>
+        Wally & Buck <br />
+        319 E Front St. <br />
+        Missoula, MT 58912 <br />
+        (406)549-8157
+      </address>
+      <a href="wallyandbuck@gmail.com">wallyandbuck@gmail.com</a>
+
+      <br />
+      <br />
+
+      <h2>Hours:</h2>
+      <table>
+        <tr>
+          <th scope="row">Tuesday-Saturday:</th>
+          <td>4:00pm-9:00pm</td
+        </tr>
+        <tr>
+          <th scope="row">Sunday/Monday:</th>
+          <td>Closed</td>
+        </tr>
+      </table>
+
+      <br />
+      <br />
+
+      <h2>Let us know how we're doing!</h2>
+    <form action="action_page.php" method="get" id="forms" class="creating-forms">
+        <label><b>First Name:</b>
+          <input type="text" placeholder="John" name="First Name:"/>
+        </label>
+        <br />
+        <label><b>Last Name:</b>
+          <input type="text" placeholder="Doe" name="Last Name:"/>
+        </label>
+        <br />
+        <label><b>Email:</b>
+          <input type="text" placeholder="johndoe@email.com" name="Email:"
+        </label>
+        <br />
+        <br />
+
+
+      <p><b>How would you rate our service on a scale of 1-5? (5 being the best, and 1 being the worst)</b></p>
+      <form action="action_page.php" method="get" id="ratings" class="creating-forms">
+        <input type="radio" name="level" value="5" />  5 (best)
+        <br/>
+        <input type="radio" name="level" value="4" />  4
+        <br />
+        <input type="radio" name="level" value="3" />  3
+        <br />
+        <input type="radio" name="level" value="2" />  2
+        <br />
+        <input type="radio" name="level" value="1" />  1 (worst)
+
+        <br />
+        <br />
+
+        <p><b>Comments or Concerns:</b></p>
+        <textarea name="comments" cols="5" rows="5" style="min-width:100%" placeholder="Enter up to 500 characters..." id="textarea"></textarea>
+    </form>
+
+        <br />
+        <br />
+
+        <input type="submit" name="subscribe value="Submit"/>
+
+
+    </body>
+  </html>
