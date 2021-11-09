@@ -1,0 +1,51 @@
+DOCTYPE!
+<html>
+  <head>
+    <style>
+    /* style.css holds also style info, index is for actual content. */
+     * {
+       background-color: #f0d39d;
+       width: 1130px;
+       border: 7px solid #a489a0
+       padding: 20px;
+       margin: 20 px;
+       align: center;
+     }
+    .main-container {
+      background-color: #f0d39d;
+      width: 1130px;
+      border: 7px solid #a489a0;
+      padding: 20px;
+      margin: 20px;
+      align: center;
+    }
+
+    #mainheader {
+      position: relative;
+      left: 20px;
+      top: 5 px;
+      color: black;
+      opactiy: .75;
+      font-size: 40px;
+      color: #888782;
+
+    }
+
+    div.align {
+      text-align: center;
+    }
+    body {
+      color: #888782;
+      align: center;
+
+    }
+    p {
+      width: 40%
+    }
+    </style>
+  </head>
+
+  <body>
+
+  </body>
+</html>
