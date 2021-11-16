@@ -1,0 +1,104 @@
+DOCTYPE!
+<html>
+  <head>
+    <style>
+    /* style.css holds also style info, index is for actual content. */
+
+    * {
+    }
+
+    a:link {color: blue;
+      text-decoration: none;
+    }
+
+    a:visited{
+      color: blue;
+      text-decoration: none;
+    }
+
+    a:hover{
+      color: red;
+      text-decoration: none;
+    }
+
+
+    .main-container{
+      background-color: #f8f1ae;
+        width: 1130px;
+        border: 7px solid black;
+        padding: 20px;
+        margin: 40px;
+        items: center;
+      }
+
+
+    .heading
+     {
+      line-height: 95%;
+      font-family: "LeJour", 'Bangla MN', 'Engravers MT', 'Times New Roman';
+      padding-top: 20px;
+      font-size: 18px;
+    }
+
+    .para1::first-letter {
+      color: black;
+      font-size: x-large;
+    }
+
+    .para1::first-line{
+      color: black;
+      font-variant: none;
+    }
+
+    .para2::first-letter {
+      color: black;
+      font-size: x-large;
+    }
+
+    .para2::first-line{
+      color: black;
+      font-variant: none;
+    }
+
+    .para3::first-letter {
+      color: black;
+      font-size: x-large;
+    }
+
+    .para3::first-line{
+      color: black;
+      font-variant: none;
+    }
+
+    .para1 {
+      line-height: 170%;
+      font-size: 17px;
+
+    }
+
+    .para2 {
+      line-height: 170%;
+      font-size: 17px;
+    }
+
+    .para3 {
+      line-height: 170%;
+      font-size: 17px;
+    }
+    body {
+      text-align: justify;
+      font-family: "Grotesk", 'Franklin Gothic Bold', 'Avenir Next','Devanagari Sangam MN';
+
+
+    }
+
+
+
+
+    </style>
+  </head>
+
+  <body>
+
+  </body>
+</html>

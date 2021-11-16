@@ -1,0 +1,13 @@
+@font-face {
+  font-family:'LeJour';
+  src: url('../fonts/LeJourSerif-OVZMo.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Grotesk';
+  src: url('../fonts/HKGrotesk-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
