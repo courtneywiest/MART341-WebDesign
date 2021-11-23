@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <style>
+        .blue {
+      }
+
+      * {
+        text-align: justify;
+      }
+
+      .blue-square {
+        width: 200px;
+        height: 200px;
+        background-color: lightblue;
+        border: 7px dashed blue;
+        padding: 20px;
+        top: 40px;
+        left:120px;
+        float: right;
+
+    }
+
+    .green-rectangle {
+      width: 700px;
+      height: 300px;
+      background-color: lightgreen;
+      border: 10px dashed green;
+      margin: 17px;
+      overflow: scroll;
+
+    }
+
+    .green-rectangle:hover {
+      color: blue;
+      font-style: italic;
+
+    }
+
+    .purple-square {
+      width: 400px;
+      height: 400px;
+      background-color: #CBC3E3;
+      padding: 10px;
+      line-height: 50px;
+      display: inline;
+      left: 50px;
+
+
+
+    }
+
+    .pink-rectangle {
+      width: 50px;
+      height: 300px;
+      background-color: lightpink;
+      position: absolute;
+      border: 5px double #e75480;
+
+
+    }
+
+
+
+
+
+
+      </style>
+    </head>
+  </html>
